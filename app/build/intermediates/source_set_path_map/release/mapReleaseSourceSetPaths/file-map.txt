@@ -1,0 +1,46 @@
+com.example.studentmanagement.app-material-1.12.0-0 C:\Users\84921\.gradle\caches\9.5.0\transforms\21dc58b48a9ba9e59d61d3b8d5438b5a\transformed\material-1.12.0\res
+com.example.studentmanagement.app-recyclerview-1.3.2-1 C:\Users\84921\.gradle\caches\9.5.0\transforms\249a69547d398ad4246d46b928804728\transformed\recyclerview-1.3.2\res
+com.example.studentmanagement.app-savedstate-ktx-1.2.1-2 C:\Users\84921\.gradle\caches\9.5.0\transforms\2796495811fa19505784e8793dadb6d0\transformed\savedstate-ktx-1.2.1\res
+com.example.studentmanagement.app-emoji2-1.3.0-3 C:\Users\84921\.gradle\caches\9.5.0\transforms\2d10a2e2289737bfb1f00efe174e6e30\transformed\emoji2-1.3.0\res
+com.example.studentmanagement.app-fragment-1.5.4-4 C:\Users\84921\.gradle\caches\9.5.0\transforms\2ebb18d84289fd4102c0fbd3ed678583\transformed\fragment-1.5.4\res
+com.example.studentmanagement.app-activity-1.9.1-5 C:\Users\84921\.gradle\caches\9.5.0\transforms\397675911235c584bf222622ffae3b1e\transformed\activity-1.9.1\res
+com.example.studentmanagement.app-emoji2-views-helper-1.3.0-6 C:\Users\84921\.gradle\caches\9.5.0\transforms\453a1a8b724d1bc38aef2efdc4337c5a\transformed\emoji2-views-helper-1.3.0\res
+com.example.studentmanagement.app-glide-4.16.0-7 C:\Users\84921\.gradle\caches\9.5.0\transforms\484509d373aeec8ae8ca3979adf910e8\transformed\glide-4.16.0\res
+com.example.studentmanagement.app-core-ktx-1.13.1-8 C:\Users\84921\.gradle\caches\9.5.0\transforms\4af88592903f662fe1a847124908137e\transformed\core-ktx-1.13.1\res
+com.example.studentmanagement.app-cardview-1.0.0-9 C:\Users\84921\.gradle\caches\9.5.0\transforms\4f6cc1cddf50cb7fe800f33f83466497\transformed\cardview-1.0.0\res
+com.example.studentmanagement.app-room-runtime-2.6.1-10 C:\Users\84921\.gradle\caches\9.5.0\transforms\5406a7479c4e9ae1548c84be3a49b7cc\transformed\room-runtime-2.6.1\res
+com.example.studentmanagement.app-lifecycle-livedata-core-ktx-2.8.4-11 C:\Users\84921\.gradle\caches\9.5.0\transforms\56fef764bc750964ec6de535451b9f4d\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.example.studentmanagement.app-coordinatorlayout-1.1.0-12 C:\Users\84921\.gradle\caches\9.5.0\transforms\5935c8508d7365acbdb4c7380c1d6eaa\transformed\coordinatorlayout-1.1.0\res
+com.example.studentmanagement.app-lifecycle-runtime-release-13 C:\Users\84921\.gradle\caches\9.5.0\transforms\5afa7ce5ae8707fb4ce2eec0c7fdd7c1\transformed\lifecycle-runtime-release\res
+com.example.studentmanagement.app-activity-ktx-1.9.1-14 C:\Users\84921\.gradle\caches\9.5.0\transforms\63c066aa38486b054343a937dde91938\transformed\activity-ktx-1.9.1\res
+com.example.studentmanagement.app-appcompat-1.7.0-15 C:\Users\84921\.gradle\caches\9.5.0\transforms\6442138c141847989596a6df769c9cb2\transformed\appcompat-1.7.0\res
+com.example.studentmanagement.app-core-runtime-2.2.0-16 C:\Users\84921\.gradle\caches\9.5.0\transforms\6739452c9b215a6b712e040038444781\transformed\core-runtime-2.2.0\res
+com.example.studentmanagement.app-customview-poolingcontainer-1.0.0-17 C:\Users\84921\.gradle\caches\9.5.0\transforms\6cba9f0c4aa5ac2e615db7b72bfd23ce\transformed\customview-poolingcontainer-1.0.0\res
+com.example.studentmanagement.app-room-ktx-2.6.1-18 C:\Users\84921\.gradle\caches\9.5.0\transforms\6d54dabbfc22be4cd912081d57a445bd\transformed\room-ktx-2.6.1\res
+com.example.studentmanagement.app-profileinstaller-1.3.1-19 C:\Users\84921\.gradle\caches\9.5.0\transforms\6e640dcb546d824ddec59db2f53399a0\transformed\profileinstaller-1.3.1\res
+com.example.studentmanagement.app-lifecycle-livedata-core-2.8.4-20 C:\Users\84921\.gradle\caches\9.5.0\transforms\771b4f5a255065c851a651cb43ac98c0\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.studentmanagement.app-core-1.13.1-21 C:\Users\84921\.gradle\caches\9.5.0\transforms\77fbd1e506059e833870cf549eac1869\transformed\core-1.13.1\res
+com.example.studentmanagement.app-sqlite-2.4.0-22 C:\Users\84921\.gradle\caches\9.5.0\transforms\79f1b9ff2e22c8eb21e3fa1b7fc0ae7a\transformed\sqlite-2.4.0\res
+com.example.studentmanagement.app-savedstate-1.2.1-23 C:\Users\84921\.gradle\caches\9.5.0\transforms\7f800540073ceb675d4d01004c7dc5e0\transformed\savedstate-1.2.1\res
+com.example.studentmanagement.app-lifecycle-process-2.8.4-24 C:\Users\84921\.gradle\caches\9.5.0\transforms\82a60d8486f497a0c994b096f6f776f6\transformed\lifecycle-process-2.8.4\res
+com.example.studentmanagement.app-appcompat-resources-1.7.0-25 C:\Users\84921\.gradle\caches\9.5.0\transforms\881030998fb280b9a3c59833103c0edb\transformed\appcompat-resources-1.7.0\res
+com.example.studentmanagement.app-viewpager2-1.1.0-beta02-26 C:\Users\84921\.gradle\caches\9.5.0\transforms\8f7f77885620112c7ae9f6df776388e7\transformed\viewpager2-1.1.0-beta02\res
+com.example.studentmanagement.app-transition-1.5.0-27 C:\Users\84921\.gradle\caches\9.5.0\transforms\90a593afe48cf7e6dddeef24751b7f0a\transformed\transition-1.5.0\res
+com.example.studentmanagement.app-sqlite-framework-2.4.0-28 C:\Users\84921\.gradle\caches\9.5.0\transforms\919f97c46b93fc538386725c14d2eb94\transformed\sqlite-framework-2.4.0\res
+com.example.studentmanagement.app-annotation-experimental-1.4.0-29 C:\Users\84921\.gradle\caches\9.5.0\transforms\9d297aa664076555f1adaf47c259e3fd\transformed\annotation-experimental-1.4.0\res
+com.example.studentmanagement.app-lifecycle-viewmodel-ktx-2.8.4-30 C:\Users\84921\.gradle\caches\9.5.0\transforms\9d90186c12e8361af9ce6b5b52022a22\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.example.studentmanagement.app-constraintlayout-2.1.4-31 C:\Users\84921\.gradle\caches\9.5.0\transforms\af443f5f316093fd047e22598e03fb76\transformed\constraintlayout-2.1.4\res
+com.example.studentmanagement.app-lifecycle-livedata-2.8.4-32 C:\Users\84921\.gradle\caches\9.5.0\transforms\ba85a71cb35177ceeea3afda2a7c5523\transformed\lifecycle-livedata-2.8.4\res
+com.example.studentmanagement.app-lifecycle-viewmodel-release-33 C:\Users\84921\.gradle\caches\9.5.0\transforms\c7e598d1077c366ba85c545780a17ff2\transformed\lifecycle-viewmodel-release\res
+com.example.studentmanagement.app-lifecycle-runtime-ktx-release-34 C:\Users\84921\.gradle\caches\9.5.0\transforms\c856e6d141afd824f0ad7251649efb8d\transformed\lifecycle-runtime-ktx-release\res
+com.example.studentmanagement.app-drawerlayout-1.1.1-35 C:\Users\84921\.gradle\caches\9.5.0\transforms\c87212b993bb6f3b4d7e96477d298d7d\transformed\drawerlayout-1.1.1\res
+com.example.studentmanagement.app-lifecycle-viewmodel-savedstate-2.8.4-36 C:\Users\84921\.gradle\caches\9.5.0\transforms\da753578708de1547d7765bdc78eae4b\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.studentmanagement.app-startup-runtime-1.1.1-37 C:\Users\84921\.gradle\caches\9.5.0\transforms\e36970b29b0b54d20a6b8b57fd90a8e6\transformed\startup-runtime-1.1.1\res
+com.example.studentmanagement.app-lifecycle-livedata-ktx-2.8.4-38 C:\Users\84921\.gradle\caches\9.5.0\transforms\f1a39ddf6b800431a558f77ab9260542\transformed\lifecycle-livedata-ktx-2.8.4\res
+com.example.studentmanagement.app-pngs-39 G:\bài 4\app\build\generated\res\pngs\release
+com.example.studentmanagement.app-resValues-40 G:\bài 4\app\build\generated\res\resValues\release
+com.example.studentmanagement.app-packageReleaseResources-41 G:\bài 4\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.studentmanagement.app-packageReleaseResources-42 G:\bài 4\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.studentmanagement.app-release-43 G:\bài 4\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.studentmanagement.app-main-44 G:\bài 4\app\src\main\res
+com.example.studentmanagement.app-release-45 G:\bài 4\app\src\release\res

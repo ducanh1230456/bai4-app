@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00BCD4</color>
+    <color name="black">#FF000000</color>
+    <color name="danger">#D32F2F</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_600">#757575</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Student Management</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_no">No</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_select_image">Select from Device</string>
+    <string name="btn_yes">Yes</string>
+    <string name="dialog_confirm_delete_msg">Are you sure you want to delete student information?</string>
+    <string name="dialog_confirm_delete_title">Confirm Delete</string>
+    <string name="dialog_confirm_edit_msg">Are you sure you want to edit student information?</string>
+    <string name="dialog_confirm_edit_title">Confirm Edit</string>
+    <string name="hint_avatar_url">https://example.com/avatar.jpg</string>
+    <string name="hint_email">e.g. sv001@example.com</string>
+    <string name="hint_full_name">e.g. Nguyễn Văn A</string>
+    <string name="hint_search">Search by name or ID...</string>
+    <string name="hint_student_id">e.g. SV001</string>
+    <string name="label_avatar">Avatar Image</string>
+    <string name="label_avatar_url">Or enter Image URL:</string>
+    <string name="label_email">Email</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="msg_empty_list">No students available. Click "+" to add new student!</string>
+    <string name="msg_fill_required_fields">Please fill in all required fields.</string>
+    <string name="msg_invalid_email">Please enter a valid email address.</string>
+    <string name="msg_student_deleted">Student deleted successfully.</string>
+    <string name="msg_student_not_found">Student not found.</string>
+    <string name="msg_student_saved">Student saved successfully.</string>
+    <string name="msg_student_updated">Student updated successfully.</string>
+    <string name="title_add_student">Add New Student</string>
+    <string name="title_edit_student">Edit Student Info</string>
+    <string name="title_student_detail">Student Details</string>
+    <string name="title_student_list">Student List</string>
+    <style name="ShapeAppearance.App.CircleImageView" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.StudentManagement" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+</resources>

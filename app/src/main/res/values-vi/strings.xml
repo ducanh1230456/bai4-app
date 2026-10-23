@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quản lý Sinh Viên</string>
+    <string name="title_student_list">Danh sách Sinh Viên</string>
+    <string name="title_student_detail">Chi tiết Sinh Viên</string>
+    <string name="title_add_student">Thêm Sinh Viên Mới</string>
+    <string name="title_edit_student">Sửa Thông Tin Sinh Viên</string>
+
+    <string name="label_full_name">Họ và Tên</string>
+    <string name="label_student_id">Mã Số Sinh Viên</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Ảnh Avatar</string>
+    <string name="label_avatar_url">Hoặc nhập link ảnh URL:</string>
+
+    <string name="hint_full_name">Ví dụ: Nguyễn Văn A</string>
+    <string name="hint_student_id">Ví dụ: SV001</string>
+    <string name="hint_email">Ví dụ: sv001@example.com</string>
+    <string name="hint_avatar_url">https://example.com/avatar.jpg</string>
+    <string name="hint_search">Tìm kiếm theo tên hoặc MSSV...</string>
+
+    <string name="btn_select_image">Chọn từ thiết bị</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_yes">Có</string>
+    <string name="btn_no">Không</string>
+    <string name="btn_close">Đóng</string>
+
+    <string name="dialog_confirm_edit_title">Xác nhận sửa</string>
+    <string name="dialog_confirm_edit_msg">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="dialog_confirm_delete_title">Xác nhận xóa</string>
+    <string name="dialog_confirm_delete_msg">Bạn có muốn xóa thông tin SV không?</string>
+
+    <string name="msg_empty_list">Chưa có sinh viên nào. Nhấn "+" để thêm mới!</string>
+    <string name="msg_fill_required_fields">Vui lòng nhập đầy đủ thông tin bắt buộc.</string>
+    <string name="msg_invalid_email">Vui lòng nhập email hợp lệ.</string>
+    <string name="msg_student_saved">Đã lưu thông tin sinh viên thành công.</string>
+    <string name="msg_student_updated">Đã cập nhật thông tin sinh viên thành công.</string>
+    <string name="msg_student_deleted">Đã xóa sinh viên thành công.</string>
+    <string name="msg_student_not_found">Không tìm thấy sinh viên.</string>
+</resources>

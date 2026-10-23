@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/layout_activity_add_edit_student.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/layout/activity_add_edit_student.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_ic_search.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_ic_default_avatar.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/ic_default_avatar.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_bg_search_input.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/bg_search_input.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_ic_delete.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_ic_edit.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/layout_item_student.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/layout/item_student.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/drawable_ic_add.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.studentmanagement.app-debug-43:/layout_activity_student_detail.xml.flat",
+        "source": "com.example.studentmanagement.app-main-45:/layout/activity_student_detail.xml"
+    }
+]

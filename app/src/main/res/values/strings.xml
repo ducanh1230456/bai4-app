@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="title_student_list">Student List</string>
+    <string name="title_student_detail">Student Details</string>
+    <string name="title_add_student">Add New Student</string>
+    <string name="title_edit_student">Edit Student Info</string>
+
+    <string name="label_full_name">Full Name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Avatar Image</string>
+    <string name="label_avatar_url">Or enter Image URL:</string>
+
+    <string name="hint_full_name">e.g. Nguyễn Văn A</string>
+    <string name="hint_student_id">e.g. SV001</string>
+    <string name="hint_email">e.g. sv001@example.com</string>
+    <string name="hint_avatar_url">https://example.com/avatar.jpg</string>
+    <string name="hint_search">Search by name or ID...</string>
+
+    <string name="btn_select_image">Select from Device</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_close">Close</string>
+
+    <string name="dialog_confirm_edit_title">Confirm Edit</string>
+    <string name="dialog_confirm_edit_msg">Are you sure you want to edit student information?</string>
+    <string name="dialog_confirm_delete_title">Confirm Delete</string>
+    <string name="dialog_confirm_delete_msg">Are you sure you want to delete student information?</string>
+
+    <string name="msg_empty_list">No students available. Click "+" to add new student!</string>
+    <string name="msg_fill_required_fields">Please fill in all required fields.</string>
+    <string name="msg_invalid_email">Please enter a valid email address.</string>
+    <string name="msg_student_saved">Student saved successfully.</string>
+    <string name="msg_student_updated">Student updated successfully.</string>
+    <string name="msg_student_deleted">Student deleted successfully.</string>
+    <string name="msg_student_not_found">Student not found.</string>
+</resources>
